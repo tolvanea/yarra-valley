@@ -1,4 +1,8 @@
 # Yarra Valley
+
+## Modifications in this fork
+Originally, color of "typeAlias" matches color of type "#c651e5". This is changed to match color of struct "#99c2eb". Reasoning: Type aliases may be referred more often to generic structs than to than to built-in types. Therefore it may be more intuitive to think that type alias is a struct rather than built-in type.
+
 ## Your new favorite dark theme for Visual Studio Code
 
 Here on the slopes of the Yarra, our syntax highlighting receives the same care and attention as our cool climate pinot noir. Thanks for coming to visit. We hope you like it here, and we hope you stay.
