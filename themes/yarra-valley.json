@@ -41,7 +41,7 @@
     "string": "#aecc00",
     "struct": "#99c2eb",
     "type": "#c651e5",
-    "typeAlias": "#c651e5",
+    "typeAlias": "#99c2eb",
     "typeParameter": "#c651e5",
     "unresolvedReference": "#ff4340",
     "variable.constant:rust": "#f14360",
